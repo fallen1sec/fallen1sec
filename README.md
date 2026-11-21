@@ -1,4 +1,5 @@
-## Hi there 👋
+[![NASA Open Science 101 Badge]()](https://www.credly.com/badges/97fbcd45-e30b-4a18-ad42-5b82175bda4c/public_url)
+
 
 <!--
 **fallen1sec/fallen1sec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
